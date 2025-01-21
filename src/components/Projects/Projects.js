@@ -9,20 +9,20 @@ import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import test1 from "../../Assets/Projects/1.png";
-import test2 from "../../Assets/Projects/2.png";
-import test3 from "../../Assets/Projects/3.png";
-import test4 from "../../Assets/Projects/4.png";
-import test5 from "../../Assets/Projects/5.png";
-import test6 from "../../Assets/Projects/6.png";
-import test7 from "../../Assets/Projects/7.png";
-import test8 from "../../Assets/Projects/8.png";
-import test9 from "../../Assets/Projects/9.png";
-import test10 from "../../Assets/Projects/10.png";
-import test11 from "../../Assets/Projects/11.png";
-import test12 from "../../Assets/Projects/12.png";
-import test13 from "../../Assets/Projects/13.png";
-import test14 from "../../Assets/Projects/14.png";
-import test15 from "../../Assets/Projects/15.png";
+import test2 from "../../Assets/Projects/2.jpg";
+import test3 from "../../Assets/Projects/3.jpg";
+import test4 from "../../Assets/Projects/4.jpg";
+import test5 from "../../Assets/Projects/5.jpg";
+import test6 from "../../Assets/Projects/6.jpg";
+import test7 from "../../Assets/Projects/7.jpg";
+import test8 from "../../Assets/Projects/8.jpg";
+import test9 from "../../Assets/Projects/9.jpg";
+import test10 from "../../Assets/Projects/10.jpg";
+import test11 from "../../Assets/Projects/11.jpg";
+import test12 from "../../Assets/Projects/12.jpg";
+import test13 from "../../Assets/Projects/13.jpg";
+import test14 from "../../Assets/Projects/14.jpg";
+import test15 from "../../Assets/Projects/15.jpg";
 
 function Projects() {
   return (
