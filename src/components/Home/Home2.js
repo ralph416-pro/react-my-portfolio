@@ -19,13 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least worked
-              something, I think… 🤷‍♂️
+              I am very love with programming and I have experience worked plenty of project, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Javascript and php </b>
               </i>
+              and expertise in frontend and backend of Laravel, React, Node.
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Blockchain, AI/ML.
                 </b>
               </i>
               <br />
@@ -48,8 +48,9 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and Next.js </b>
               </i>
+              &nbsp; and satisficate clients.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

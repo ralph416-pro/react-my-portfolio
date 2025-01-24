@@ -19,7 +19,9 @@ function ProjectCards(props) {
         </Button> */}
         {"\n"}
         {"\n"}
-
+        <Card.Text style={{ textAlign: "justify" }}>
+          {props.stack}
+        </Card.Text>
         {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
         {!props.isBlog && props.demoLink && (
